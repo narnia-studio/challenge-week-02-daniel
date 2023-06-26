@@ -49,6 +49,6 @@ repeatedGroups([1, 1, 0, 0, 8, 4, 4, 4, 3, 2, 1, 9, 9]);
 <p>
   
 **Question source:** 
-  [rendezvous with cassidoo](https://buttondown.email/cassidoo/archive/8309/)
+  [rendezvous with cassidoo](https://buttondown.email/cassidoo/archive/like-what-you-do-and-then-you-will-do-your-best/)
   
 </p>
